@@ -1,5 +1,5 @@
 var lists=document.getElementsByTagName("LI");
-
+//sua file
 var i;
 for (i=0; i<lists.length; i++){
  var span=document.createElement("SPAN");
